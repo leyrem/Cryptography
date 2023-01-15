@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/leyremonreal/Downloads/commons-codec-1.15/commons-codec-1.15-javadoc.jar",
+        "/Users/leyremonreal/Downloads/commons-codec-1.15/commons-codec-1.15-sources.jar",
+        "/Users/leyremonreal/Downloads/commons-codec-1.15/commons-codec-1.15-test-sources.jar",
+        "/Users/leyremonreal/Downloads/commons-codec-1.15/commons-codec-1.15-tests.jar",
+        "/Users/leyremonreal/Downloads/commons-codec-1.15/commons-codec-1.15.jar"
+    ]
+}

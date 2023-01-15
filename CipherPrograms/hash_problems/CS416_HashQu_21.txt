@@ -1,0 +1,11 @@
+The following base64 String has been found in a Password storage file on a server
+
+fRHAGLHUnImSAPErVWKgra1tGEHZzTim1lWTxh+y44nW9yfbVy8V5QQXhYEdPZUmwsY5QyaJ6bG8Fk7abrkKZw==
+
+
+Given that 
+1. the server is using one of the SHA3 hashes.
+2. The passwords have random 2 byte salt values concatenated at the front (salt|| password) before hashing.
+3. You have been given a list of probable passwords in 21Pwd.txt
+
+Recover the password.

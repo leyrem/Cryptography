@@ -1,0 +1,18 @@
+
+
+The following information has been recovered from a DES encryption
+
+Plaintext 	    	The password is URA ONI KUDAKI
+
+Ciphertext in base64	8pRPVdSLU+XvaAQVBgJaAmuO5cLDrP8MK0ojgGayriQ=
+
+Key Fragment		70:AD:57:00:F0:EF
+
+Mode of operation 	ECB\PKCS5PAdding
+
+Your task is to recover the full Key. 
+
+Note: The encryption was performed using the Java programming language, specifically JDK-15 version.
+
+Please include justification for your answer with your submission.
+
